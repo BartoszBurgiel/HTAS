@@ -1,0 +1,3 @@
+> in der Regel werden alle Dateien im Ordner 'out' gespeichert
+> achte darauf, dass die Bilddateien im selben Ordner wie die main.exe Datei
+> du kannst gerne eine Verknüpfung zur main.exe machen und diese an beliebigen Ort einfügen
